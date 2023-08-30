@@ -38,7 +38,7 @@
 </div>
 
 <h3>담당 기능 화면 구성🌠</h3>
-![image](https://github.com/chaehwi/WMS_itwillbs/assets/98143959/6f55a93e-fd19-41aa-9109-9e93e5f860cb)
+<img src="![1](https://github.com/chaehwi/WMS_itwillbs/assets/98143959/6f55a93e-fd19-41aa-9109-9e93e5f860cb)" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
