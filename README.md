@@ -41,7 +41,9 @@
 
 <h3>담당 기능 화면 구성🌠</h3>
 <img src="https://github.com/chaehwi/WMS_itwillbs/assets/98143959/6f55a93e-fd19-41aa-9109-9e93e5f860cb" />
-![1](https://github.com/chaehwi/WMS_itwillbs/assets/98143959/166c7a07-ad22-4229-9423-3657b9b204ab)
+<img src="https://github.com/chaehwi/WMS_itwillbs/assets/98143959/c82982bb-3650-4dc9-aa1c-154681204ccb" />
+<img src="https://github.com/chaehwi/WMS_itwillbs/assets/98143959/ad6e270f-4ef9-4489-8107-90c48858f568" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
