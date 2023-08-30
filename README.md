@@ -4,6 +4,8 @@
 <h2>아이티윌부산교육센터 2차 프로젝트</h2>
 </div>
 
+<br>
+
 <div>
 <h3>개요</h3>
 <ul>
@@ -13,7 +15,9 @@
   <li>개발 팀 : team3 (황채휘, 정채원, 배현진, 김태훈, 김기백, 박영진)</li>
 </ul>
 </div>
+
 <br>
+
 <div>
   <h3>주요 기능🌠</h3>
     <h4> ⭐인사관리</h4>
@@ -34,7 +38,7 @@
 </div>
 
 <h3>담당 기능 화면 구성🌠</h3>
-![1](https://github.com/chaehwi/WMS_itwillbs/assets/98143959/6f55a93e-fd19-41aa-9109-9e93e5f860cb)
+![image](https://github.com/chaehwi/WMS_itwillbs/assets/98143959/6f55a93e-fd19-41aa-9109-9e93e5f860cb)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
